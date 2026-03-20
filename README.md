@@ -1,2 +1,3 @@
-# advanced-sports-analytics-7bgk
-Automated issue comment bot repository
+# Advanced Sports Analytics 7Bgk
+
+Automated issue comment bot repository.
